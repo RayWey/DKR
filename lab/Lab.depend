@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1716976255 source:d:\КПІ\Програмування\dkr\qwerty\lab\lab\complexnumber.cpp
+	"ComplexNumber.h"
+
+1716976253 d:\КПІ\Програмування\dkr\qwerty\lab\lab\complexnumber.h
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+
+1716976502 source:d:\КПІ\Програмування\dkr\qwerty\lab\lab\logger.cpp
+	"Logger.h"
+
+1716976495 d:\КПІ\Програмування\dkr\qwerty\lab\lab\logger.h
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+
+1716977626 source:d:\КПІ\Програмування\dkr\qwerty\lab\lab\main.cpp
+	"ComplexNumber.h"
+	"Logger.h"
+
